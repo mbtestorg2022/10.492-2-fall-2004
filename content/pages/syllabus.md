@@ -35,9 +35,54 @@ Students are encouraged to work with classmates in discussing the course and the
 Grading
 -------
 
-| activities | percentages |
-| --- | --- |
-| Homework #1 | 15% |
-| Homework #2 | 15% |
-| Homework #3 | 15% |
-| Design Report | 55%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+activities
+{{< thclose >}}
+{{< thopen >}}
+percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework #1
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework #2
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework #3
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Design Report
+{{< tdclose >}}
+{{< tdopen >}}
+55%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
