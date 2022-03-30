@@ -6,6 +6,7 @@ description: This resource includes information about general design issues, aci
   inhibition/toxicity.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/be1edc1a3962d8bf3471ad7c00e3889b_lecture7.pdf
 file_type: application/pdf
+parent_uid: 453ed948-3355-0754-533e-3bea2d1f1816
 resourcetype: Document
 title: lecture7.pdf
 uid: be1edc1a-3962-d8bf-3471-ad7c00e3889b
